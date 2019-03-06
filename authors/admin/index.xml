@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on </title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>My main interest consists of neuronal modeling and data analysis, with use of Machine Learning inspired techniques.
+Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. Research assistant at Prof. Herz lab for Computational Neuroscience, working on data inference in single cell model.
+During my Master I also contributed to the ratCAVE project of prof. Sirota lab at LMU.
+Previously a Technical Student at CERN.</description>
+    </item>
+    
+  </channel>
+</rss>
