@@ -16,10 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>My main interest consists of neuronal modeling and data analysis, with use of Machine Learning inspired techniques.
-Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. Research assistant at Prof. Herz lab for Computational Neuroscience, working on data inference in single cell model.
-During my Master I also contributed to the ratCAVE project of Prof. Sirota lab at LMU.
-Previously a Technical Student at CERN.</description>
+      <description>My main interest consists of neuronal modelling and data analysis, with use of Machine Learning inspired techniques and particular interest in Bayesian Inference applications.
+Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. At the moment working for INCF with Brian 2 as a part of Google Summer of Code, where I develop a new Model Fitting Toolbox, aiming to fit traces and spike trains to neuronal models.</description>
     </item>
     
   </channel>
